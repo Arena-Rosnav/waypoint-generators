@@ -1,5 +1,5 @@
 # waypoint-generators
-This repository implements waypoint generators partly proposed in our paper [Connecting DRL with Conventional Global Planners using Waypoint Generators](https://arxiv.org/pdf/2104.03663).
+This repository implements waypoint generators partly proposed in our paper [Connecting DRL with Conventional Global Planners using Waypoint Generators (IROS21)](https://arxiv.org/pdf/2104.03663).
 
 
 Waypoint generators are utilized to interconnect learning-based local planners with classic global planners from the ROS Navigation Stack.
